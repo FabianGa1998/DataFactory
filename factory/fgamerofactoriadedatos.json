@@ -1,0 +1,9 @@
+{
+	"name": "fgamerofactoriadedatos",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "86fcc053-f62f-4bc6-82a0-1b56ece20b64",
+		"tenantId": "17097662-7b51-499f-947e-344e13f2af10"
+	}
+}
